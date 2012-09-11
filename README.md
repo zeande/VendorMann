@@ -1,4 +1,4 @@
 VendorMann
 ==========
 
-NDS ACM vending machine repository
+NDSU ACM vending machine repository
